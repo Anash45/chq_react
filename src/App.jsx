@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App bg-red-500 h-[100vh] flex flex-col justify-center items-center">
-      <p className="text-center text-xl font-bold text-white">Hello React</p>
+    <div className="App bg-red-200 h-[100vh] flex flex-col justify-center items-center">
+      <p className="text-center text-[40px] font-bold text-green-600">CHQ</p>
     </div>
   );
 }
